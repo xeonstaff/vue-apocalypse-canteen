@@ -12,7 +12,8 @@ Started by Joel at Stratacache to try to learn Vue. It's working...sort of.
 
     Store
 
-
+    transitions galore 
+    
     Vuex
         state
         mutations
