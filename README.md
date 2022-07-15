@@ -1,24 +1,21 @@
-# vue-pa-canteen
+## About
+Started by Joel at Stratacache to try to learn Vue. It's working...sort of.
 
-## Project setup
-```
-npm install
-```
+## TODO
+1. finish drag-and-drop functionality 
+2. Impliment these functions:
+    mixins
+    filters
+    forms
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    routing
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    Store
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    Vuex
+        state
+        mutations
+        actions
+3. add music
+4. create clone-- link with routes-- Animal Crossing version; pull images/info from Animal Crossing API 
